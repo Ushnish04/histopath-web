@@ -9,4 +9,15 @@ Pillow==10.0.0
 pandas==2.0.3
 tqdm==4.66.1
 pycryptodome==3.18.0
+flwr==1.5.Flask==3.0.0
+Werkzeug==3.0.0
+python-dotenv==1.0.0
+torch==2.9.0
+torchvision==0.24.0
+scikit-image==0.22.0
+scikit-learn==1.4.0
+Pillow==10.2.0
+pandas==2.1.0
+tqdm==4.66.1
+pycryptodome==3.20.0
 flwr==1.5.0
